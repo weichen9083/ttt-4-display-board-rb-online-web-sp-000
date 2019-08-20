@@ -17,4 +17,4 @@ def display_board(board)
   puts " #{g} | #{h} | #{i} "
 end 
 
-display_board("x","x","x","x","x","x", "o", "o", "0")
+display_board("x","x","x","x","x","x", "o", "o", "o")
