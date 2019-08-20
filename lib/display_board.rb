@@ -1,15 +1,15 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 def display_board(board)
-  board[0] = a
-  board[1] = b
-  board[2] = c
-  board[3] = d
-  board[4] = e
-  board[5] = f
-  board[6] = g 
-  board[7] = h 
-  board[8] = i
+ a = board[0] 
+ b = board[1] 
+ c = board[2]  
+ d = board[3] 
+ e = board[4] 
+ f = board[5] 
+ g = board[6]  
+ h = board[7]  
+ i = board[8]  
   puts " #{a} | #{b} | #{c} "
   puts "-----------"
   puts " #{d} | #{e} | #{f} "
