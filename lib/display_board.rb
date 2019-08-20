@@ -17,6 +17,4 @@ def display_board(board)
   puts " #{g} | #{h} | #{i} "
 end 
 
-color = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 
-display_board(color)
