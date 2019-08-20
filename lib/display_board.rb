@@ -10,11 +10,11 @@ def display_board(board)
  g = board[6]  
  h = board[7]  
  i = board[8]  
-  puts " #{a} | #{b} | #{c} "
+  puts " "#{a}" | "#{b}" | "#{c}" "
   puts "-----------"
-  puts " #{d} | #{e} | #{f} "
+  puts " "#{d}" | "#{e}" | "#{f}" "
   puts "-----------"
-  puts " #{g} | #{h} | #{i} "
+  puts " "#{g}" | "#{h}" | "#{i}" "
 end 
 
 display_board("x","x","x","x","x","x", "o", "o", "o")
